@@ -21,7 +21,7 @@
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="40" src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2560px-React-icon.svg.png"></code>
 <code><img height="40" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/265/442/png-clipart-jquery-ui-javascript-web-browser-pasargad-text-trademark.png"></code>
 
